@@ -1,0 +1,12 @@
+# .gitignore se-dotnet-webapi
+
+# ignore directories
+.vscode/
+
+# ignore files
+*.log
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tar.bz2
